@@ -1,3 +1,10 @@
+i=0
+sum=0
+while i<=10:
+    sum=sum+1
+    i=i+1
+print(sum)
+#problem 2
 a=4
 b=9
 c=19
